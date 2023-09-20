@@ -1,5 +1,5 @@
 # SPL_GITHUB1
 Einfaches Repository
-Made By David Leitenbauer
+Made By Wolfgang Netter Feger
 
 Änderung von Niklas Zirke durchgeführt
